@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "186133543180",
+    "firebase_url": "https://taskmanager-2b090-default-rtdb.firebaseio.com",
+    "project_id": "taskmanager-2b090",
+    "storage_bucket": "taskmanager-2b090.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186133543180:android:7dcc24c5ea3912385af129",
+        "android_client_info": {
+          "package_name": "br.unifor.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr9kXSBPsm1pa-z37YRYpsmsnW6Tp-Os8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
